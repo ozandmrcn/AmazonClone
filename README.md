@@ -95,7 +95,8 @@ AmazonClone
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Preview
 
-Screenshots are coming soon. In the meantime, run `npm start` to explore the home feed and product results screen locally.
+<img width="424" height="922" alt="Animation1" src="https://github.com/user-attachments/assets/c64343dc-3f1a-483b-874f-e6f542a42d09" />
+<img width="424" height="922" alt="Animation2" src="https://github.com/user-attachments/assets/2c8c7a21-b692-4ec4-a290-df99d0d64120" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" /> Notes
 
