@@ -44,6 +44,3 @@ yarn-error.*
 .idea/
 .vscode/
 .claude/
-
-# reference file
-EXAMPLEREADME.md
